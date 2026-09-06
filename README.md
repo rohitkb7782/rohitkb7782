@@ -2,11 +2,12 @@
 
 ### Projects
 
-• **[Orbital Dynamics & Relativistic Precession](https://github.com/rohitkb7782/Orbital-Dynamics-and-Relativistic-Precession)** — Numerical orbital dynamics with Euler, RK4, and Velocity Verlet; convergence and long-term energy analysis; relativistic corrections, periapsis precession, and ISCO behavior.
+* [**Orbital Dynamics & Relativistic Precession**](https://github.com/rohitkb7782/Orbital-Dynamics-and-Relativistic-Precession) — Relativistic orbital simulations with periapsis precession and ISCO stability; convergence and long-term energy analysis of Euler, RK4, and Velocity Verlet.
 
-• **[Pendulum Dynamics & Phase Space](https://github.com/rohitkb7782/Pendulum-Dynamics-and-Phase-Space)** — Nonlinear pendulum dynamics, phase-space analysis, energy conservation, damping, and comparison of numerical integrators.
+* [**Pendulum Dynamics & Phase Space**](https://github.com/rohitkb7782/Pendulum-Dynamics-and-Phase-Space) — Damped nonlinear pendulum simulations and the phase-space separatrix; convergence analysis of Euler vs. Euler-Cromer.
 
-• **[Projectile Motion with Quadratic Drag](https://github.com/rohitkb7782/Projectile-Motion-with-Quadratic-Drag)** — Projectile motion with nonlinear drag, numerical integration, analytical validation, convergence, and nondimensionalization.
+* [**Projectile Motion with Quadratic Drag**](https://github.com/rohitkb7782/Projectile-Motion-with-Quadratic-Drag) — Projectile simulations with quadratic drag; optimal launch angles and nondimensional scaling with the drag parameter.
+
 
 ### Currently exploring
 
