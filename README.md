@@ -1,4 +1,4 @@
-👋 Hey World! I'm **Rohit**, a student curious about how physics can be explored through simulations and numerical methods.
+Hi there — I'm **Rohit**, a student curious about how physics can be explored through simulations and numerical methods.
 
 ### Projects
 
