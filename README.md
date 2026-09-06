@@ -11,4 +11,4 @@
 
 ### Currently exploring
 
-1D TDSE · RK4 vs. Crank–Nicolson · Wavefunction evolution
+1D Time-dependent Schrödinger equation and numerical approaches to wavefunction evolution.
