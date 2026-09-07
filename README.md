@@ -1,8 +1,8 @@
 Hi there — I'm **Rohit**, a student curious about how physics can be explored through simulations and numerical methods.
 
-In my projects, I use NumPy and SciPy to build numerical integrators and solve differential equations, while using Matplotlib to visualize convergence and physical predictions.
+In my projects, I use NumPy, SciPy, and Matplotlib to explore numerical convergence and physical laws.
 
-I’m currently exploring 1D time-dependent Schrödinger equation and numerical approaches to wavefunction evolution.
+I’m currently exploring the 1D TDSE, including numerical methods for wavefunction evolution.
 
 ### Projects
 
