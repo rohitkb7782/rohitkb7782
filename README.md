@@ -1,4 +1,4 @@
-Hi there — I'm **Rohit**, a student curious about how physics can be understood through simulations and numerical methods.
+Hi there — I'm Rohit, a student curious about how physics can be understood through simulations and numerical methods.
 
 In my projects, I use NumPy, SciPy, and Matplotlib to explore numerical convergence and physical laws.
 
