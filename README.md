@@ -2,7 +2,7 @@ Hi there — I'm Rohit, a student curious about how physics can be understood th
 
 In my projects, I use NumPy, SciPy, and Matplotlib to explore numerical convergence and physical laws.
 
-I’m currently exploring the 1D TDSE, including numerical methods for wavefunction evolution.
+I’m currently exploring the Ising model and Monte Carlo methods.
 
 ### Projects
 
